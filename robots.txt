@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-d5jy2k.goib138.site/sitemap.xml
